@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_59" data-name="Group 59" transform="translate(-222 -326)">
+    <circle id="btn_upload" cx="15" cy="15" r="15" transform="translate(222 326)" fill="#9ea0de"/>
+    <g id="add-24px" transform="translate(225 329)">
+      <path id="Path_4" data-name="Path 4" d="M19,13H13v6H11V13H5V11h6V5h2v6h6Z" fill="#fff"/>
+      <path id="Path_5" data-name="Path 5" d="M0,0H24V24H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>
