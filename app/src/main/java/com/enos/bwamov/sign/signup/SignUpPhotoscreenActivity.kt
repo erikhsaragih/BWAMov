@@ -13,7 +13,7 @@ import android.view.View
 import android.widget.Toast
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
-import com.enos.bwamov.HomeActivity
+import com.enos.bwamov.home.HomeActivity
 import com.enos.bwamov.R
 import com.enos.bwamov.utils.Preferences
 import com.google.firebase.storage.FirebaseStorage
